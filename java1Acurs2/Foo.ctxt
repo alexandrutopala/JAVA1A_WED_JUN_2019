@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Foo
+comment1.params=x
+comment1.target=void\ m(int)
+comment2.params=x
+comment2.target=void\ m(long)
+comment3.params=p
+comment3.target=void\ m(Pisica)
+comment4.params=s
+comment4.target=void\ m(java.lang.String)
+numComments=5
